@@ -2,7 +2,7 @@
 
 > **End-Term Examination Assignment**  
 > Post Graduate Certificate Programme in Big Data Analytics (PGCP-BDA)  
-> Centre for Development of Advanced Computing (C-DAC), Mumbai — 2025
+> Centre for Development of Advanced Computing (C-DAC), Mumbai — 2026
 
 ---
 
@@ -361,10 +361,10 @@ This project is framed within the following Indian banking regulatory frameworks
 
 ## 👤 Author
 
-**PGCP-BDA Candidate**  
+**Priyanshu Tiwari (PGCP-BDA)**  
 Centre for Development of Advanced Computing (C-DAC), Mumbai  
 Post Graduate Certificate Programme in Big Data Analytics  
-Batch: 2024–2025
+Batch: 2025-2026
 
 ---
 
